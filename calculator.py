@@ -5,7 +5,7 @@ def substract(x,y):
     #do
     pass
 def multi(x,y):
-    #done
+    #donee
     return x * y
 def div(x,y):
     #do
