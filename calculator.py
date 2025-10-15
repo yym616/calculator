@@ -1,9 +1,7 @@
 def add(x,y):
-    #do
-    pass
+    return x+y
 def substract(x,y):
-    #do
-    pass
+    return x-y
 def multi(x,y):
     #do
     pass
