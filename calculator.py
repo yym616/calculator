@@ -6,5 +6,4 @@ def multi(x,y):
     #donee
     return x * y
 def div(x,y):
-    #do
-    pass 
+    return x / y  
